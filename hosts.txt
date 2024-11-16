@@ -1,14 +1,13 @@
 #IRAN_HOST
 
 cloudflare.com
-filimo.com
 filmnet.ir
 5ghub.ir
 5ghub.net
 iranget.com
 divar.cloud
 digikala.com
-filimo.school
+
 zhaket.com
 uploadboy.ir
 divarcdn.com
@@ -286,6 +285,8 @@ im-server-2.splus.ir
 shahab.tbtb.ir
 vakacoffee.com
 payment.snapppay.ir
+filimo.school
+filimo.com
 .filimo.com
 .asset.filimo.com
 iranfttx.ir
