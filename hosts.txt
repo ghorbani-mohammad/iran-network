@@ -254,3 +254,4 @@ payment.snapppay.ir
 .asset.filimo.com
 iranfttx.ir
 mankan.me
+baam.bmi.ir
