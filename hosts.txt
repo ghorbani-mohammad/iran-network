@@ -255,3 +255,5 @@ payment.snapppay.ir
 iranfttx.ir
 mankan.me
 baam.bmi.ir
+gisapi.cra.ir
+gis.cra.ir
