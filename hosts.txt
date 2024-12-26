@@ -2,9 +2,8 @@
 
 cloudflare.com
 filimo.com
-filmnet.ir
-5ghub.ir
 5ghub.net
+filmnet.ir
 iranget.com
 divar.cloud
 digikala.com
@@ -278,3 +277,6 @@ shaparak.ir
 khanoumi.com
 emofid.com
 rahnemacollege.com
+drsaina.com
+snapp.express
+petiak.com
