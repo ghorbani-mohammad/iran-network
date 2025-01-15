@@ -297,3 +297,7 @@ account.cafebazaar.ir
 api.cafebazaar.ir
 appcdn2.cafebazaar.ir
 arvancdn.cafebazaa.ir
+
+ip-api.com
+sentry-newmy.mci.ir
+prdapi-newmy.mci.ir
