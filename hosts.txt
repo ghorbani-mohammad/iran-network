@@ -283,3 +283,6 @@ petiak.com
 license-market.ir
 zi-tel.com
 snappfood.ir
+web.splus.ir
+im-server-2.splus.ir
+file-dl.splus.ir
