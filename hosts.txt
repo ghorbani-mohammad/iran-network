@@ -251,6 +251,8 @@ vakacoffee.com
 payment.snapppay.ir
 .filimo.com
 .asset.filimo.com
+stream25.asset.filimo.com
+static.cdn.asset.filimo.com
 iranfttx.ir
 mankan.me
 baam.bmi.ir
