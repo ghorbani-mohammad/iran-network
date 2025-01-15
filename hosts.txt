@@ -290,3 +290,10 @@ assets.myket.ir
 apiserver228.myket.ir
 cdn24a.myket.ir
 senti.myket.ir
+s.cafebazaar.ir
+sentry.cafebazaar.org
+discovery.static.cafebazaar.ir
+account.cafebazaar.ir
+api.cafebazaar.ir
+appcdn2.cafebazaar.ir
+arvancdn.cafebazaa.ir
