@@ -286,3 +286,7 @@ snappfood.ir
 web.splus.ir
 im-server-2.splus.ir
 file-dl.splus.ir
+assets.myket.ir
+apiserver228.myket.ir
+cdn24a.myket.ir
+senti.myket.ir
