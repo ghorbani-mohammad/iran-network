@@ -310,3 +310,5 @@ new-sentry.digikala.com
 api.intrack.ir
 mediaad.org
 biscotti.yektanet.com
+api.filimo.com
+www.filimo.com
