@@ -303,7 +303,8 @@ arvancdn.cafebazaa.ir
 ip-api.com
 sentry-newmy.mci.ir
 prdapi-newmy.mci.ir
-
 sdb247.com
-
 fastdic.com
+trustseal.enamad.ir
+new-sentry.digikala.com
+api.intrack.ir
