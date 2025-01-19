@@ -313,3 +313,4 @@ biscotti.yektanet.com
 api.filimo.com
 www.filimo.com
 dl2.soft98.ir
+pl.snapp.ir
