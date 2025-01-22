@@ -314,3 +314,4 @@ api.filimo.com
 www.filimo.com
 dl2.soft98.ir
 pl.snapp.ir
+d.easytrader.ir
