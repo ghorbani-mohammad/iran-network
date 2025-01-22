@@ -313,5 +313,6 @@ biscotti.yektanet.com
 api.filimo.com
 www.filimo.com
 dl2.soft98.ir
+iran-tejarat.com
 pl.snapp.ir
 d.easytrader.ir
