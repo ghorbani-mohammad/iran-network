@@ -4,6 +4,7 @@ cloudflare.com
 filimo.com
 5ghub.net
 filmnet.ir
+metrix.ir
 iranget.com
 divar.cloud
 digikala.com
@@ -316,3 +317,10 @@ dl2.soft98.ir
 iran-tejarat.com
 pl.snapp.ir
 d.easytrader.ir
+irsv.upmusics.com
+dgbank.shahr-bank.ir
+sg.api.io.mi.com
+sg.app.business.smartcaemra.api.io.mi.com
+sg.home.mi.com
+g.whatsapp.net
+c.whatsapp.net
