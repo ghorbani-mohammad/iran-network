@@ -324,3 +324,4 @@ sg.app.business.smartcaemra.api.io.mi.com
 sg.home.mi.com
 g.whatsapp.net
 c.whatsapp.net
+tazebar.com
