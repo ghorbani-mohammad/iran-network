@@ -151,6 +151,7 @@ sheypoor.com
 torob.com
 zanbil.ir
 divar.ir
+api.divar.ir
 faradars.org
 git.ir
 learnby.ir
