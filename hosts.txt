@@ -330,4 +330,6 @@ sg.home.mi.com
 g.whatsapp.net
 c.whatsapp.net
 tazebar.com
+tamin.ir
 eservices.tamin.ir
+account.tamin.ir
