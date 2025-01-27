@@ -152,6 +152,10 @@ torob.com
 zanbil.ir
 divar.ir
 api.divar.ir
+chat.divar.ir
+sentry.divar.cloud
+files.divarcdn.com
+s100.divarcdn.com
 faradars.org
 git.ir
 learnby.ir
