@@ -336,3 +336,4 @@ account.tamin.ir
 tfh.tamin.ir
 aloomelk.ir
 sepehr.shaparak.ir:8080
+core.license-market.site
