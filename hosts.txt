@@ -300,6 +300,8 @@ assets.myket.ir
 apiserver228.myket.ir
 cdn24a.myket.ir
 senti.myket.ir
+
+# Cafebazaar
 s.cafebazaar.ir
 sentry.cafebazaar.org
 discovery.static.cafebazaar.ir
