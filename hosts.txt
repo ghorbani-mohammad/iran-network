@@ -324,11 +324,6 @@ pl.snapp.ir
 d.easytrader.ir
 irsv.upmusics.com
 dgbank.shahr-bank.ir
-sg.api.io.mi.com
-sg.app.business.smartcaemra.api.io.mi.com
-sg.home.mi.com
-g.whatsapp.net
-c.whatsapp.net
 tazebar.com
 tamin.ir
 eservices.tamin.ir
@@ -337,3 +332,9 @@ tfh.tamin.ir
 aloomelk.ir
 sepehr.shaparak.ir:8080
 core.license-market.site
+
+sg.api.io.mi.com
+sg.app.business.smartcaemra.api.io.mi.com
+sg.home.mi.com
+g.whatsapp.net
+c.whatsapp.net
