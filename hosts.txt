@@ -1,6 +1,6 @@
-.asset.filimo.com
-.filimo.com
-.ir
+asset.filimo.com
+filimo.com
+ir
 5ghub.net
 7sobh.com
 abantether.com
