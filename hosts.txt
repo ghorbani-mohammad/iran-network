@@ -118,6 +118,8 @@ tsetmc.ir
 abantether.com
 bit24.cash
 bitpin.ir
+bitpin.org
+api.bitpin.org
 exir.io
 farhad-exchange.com
 jibitex.com
