@@ -1,6 +1,3 @@
-asset.filimo.com
-filimo.com
-ir
 5ghub.net
 7sobh.com
 abantether.com
@@ -32,6 +29,7 @@ asanpardakht.net
 asianews.ir
 asiatech.ir
 asriran.com
+asset.filimo.com
 assets.myket.ir
 baam.bmi.ir
 bale.ai
@@ -103,6 +101,7 @@ farsnews.ir
 fastdic.com
 file-dl.splus.ir
 files.divarcdn.com
+filimo.com
 filimo.com
 filmnet.ir
 filmnet.ir
