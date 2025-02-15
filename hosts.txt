@@ -12,6 +12,7 @@ alef.ir
 aloomelk.ir
 amir3.space
 aparat.com
+api-mts.orbis.easytrader.ir
 api.bitpin.org
 api.cafebazaar.ir
 api.divar.ir
@@ -108,6 +109,7 @@ filimo.com
 filmnet.ir
 filmnet.ir
 financialtribune.com
+fundbase.ir
 g.whatsapp.net
 gap.im
 ghbi.ir
@@ -171,6 +173,7 @@ kyroom.online
 learnby.ir
 license-market.ir
 ls-marketsheet.easytrader.ir
+ls.easytrader.ir
 majazite.com
 mankan.me
 mardomsalari.ir
