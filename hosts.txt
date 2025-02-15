@@ -63,6 +63,7 @@ codal.ir
 core.license-market.site
 d.easytrader.ir
 dana-insurance.com
+danamelk.ir
 day24.ir
 dayins.com
 dgbank.shahr-bank.ir
@@ -92,6 +93,7 @@ entekhab.ir
 esam.ir
 eservices.tamin.ir
 ettelaat.com
+evaluation.danamelk.ir
 exir.io
 faradars.org
 fararu.com
@@ -168,6 +170,7 @@ khorasannews.com
 kyroom.online
 learnby.ir
 license-market.ir
+ls-marketsheet.easytrader.ir
 majazite.com
 mankan.me
 mardomsalari.ir
@@ -338,5 +341,3 @@ zanbil.ir
 zarinpal.com
 zi-tel.com
 zoomit.ir
-danamelk.ir
-evaluation.danamelk.ir
