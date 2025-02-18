@@ -88,7 +88,6 @@ eitaa.com
 eitaa.ir
 emalls.ir
 emofid.com
-sapi.emofid.com
 enamad.ir
 enbank.ir
 entekhab.ir
@@ -173,6 +172,7 @@ khorasannews.com
 kyroom.online
 learnby.ir
 license-market.ir
+login.emofid.com
 ls-marketsheet.easytrader.ir
 ls.easytrader.ir
 majazite.com
@@ -257,6 +257,7 @@ s100.divarcdn.com
 saat24.com
 sadad.shaparak.ir
 sadadpsp.ir
+sapi.emofid.com
 sarinaland.com
 sarinaland.com
 sarzamindownload.com
