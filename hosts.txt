@@ -88,6 +88,7 @@ eitaa.com
 eitaa.ir
 emalls.ir
 emofid.com
+sapi.emofid.com
 enamad.ir
 enbank.ir
 entekhab.ir
