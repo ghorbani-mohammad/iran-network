@@ -272,6 +272,7 @@ sentry-newmy.mci.ir
 sentry.cafebazaar.org
 sentry.divar.cloud
 sentry.hamravesh.com
+sentry.sabaidea.cloud
 sep.ir
 sep.shaparak.ir
 sepehr.shaparak.ir
