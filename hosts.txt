@@ -63,6 +63,7 @@ cloudflare.com
 codal.ir
 core.license-market.site
 d.easytrader.ir
+d.orbis.easytrader.ir
 dana-insurance.com
 danamelk.ir
 day24.ir
@@ -260,7 +261,6 @@ saat24.com
 sadad.shaparak.ir
 sadadpsp.ir
 sapi.emofid.com
-sarinaland.com
 sarinaland.com
 sarzamindownload.com
 sb24.com
