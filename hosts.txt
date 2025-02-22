@@ -69,6 +69,7 @@ day24.ir
 dayins.com
 dgbank.shahr-bank.ir
 digi-kala.com
+digiato.com
 digikala.com
 discovery.static.cafebazaar.ir
 divar.cloud
@@ -182,13 +183,13 @@ mashreghnews.ir
 mci.ir
 mebank.ir
 mediaad.org
-digiato.com
 mehrnews.com
 mellatinsurance.com
 metrix.ir
 mihandownload.com
 mihanwebhost.com
 mihanwebhost.com
+milli.gold
 mitechshop.ir
 mizito.ir
 mobinnet.ir
@@ -269,6 +270,7 @@ senti.myket.ir
 sentry-newmy.mci.ir
 sentry.cafebazaar.org
 sentry.divar.cloud
+sentry.hamravesh.com
 sep.ir
 sep.shaparak.ir
 sepehr.shaparak.ir
