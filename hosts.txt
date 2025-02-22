@@ -270,10 +270,10 @@ senti.myket.ir
 sentry-newmy.mci.ir
 sentry.cafebazaar.org
 sentry.divar.cloud
+sentry.hamravesh.com
 sep.ir
 sep.shaparak.ir
 sepehr.shaparak.ir
-sepehr.shaparak.ir:8080
 sg.api.io.mi.com
 sg.app.business.smartcaemra.api.io.mi.com
 sg.home.mi.com
