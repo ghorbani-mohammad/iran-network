@@ -59,6 +59,7 @@ cbi.ir
 cdn24a.myket.ir
 chat.divar.ir
 cinematicket.org
+clients.netafraz.com
 cloudflare.com
 codal.ir
 core.license-market.site
@@ -294,7 +295,6 @@ sinabank.ir
 sinainsurance.com
 snapp.express
 snapp.ir
-snappfood.ir
 snappfood.ir
 snappshop.ir
 snn.ir
