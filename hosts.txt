@@ -34,6 +34,7 @@ asset.filimo.com
 assets.myket.ir
 baam.bmi.ir
 bale.ai
+baloan.ir
 bankmellat.ir
 banksepah.ir
 basalam.com
@@ -211,6 +212,7 @@ niniban.com
 ninisite.com
 nobitex.ir
 novininsurance.com
+nx1.shop
 oauth.faraboom.co
 ok-ex.io
 omid-insurance.ir
