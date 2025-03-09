@@ -18,6 +18,7 @@ api.cafebazaar.ir
 api.divar.ir
 api.filimo.com
 api.intrack.ir
+api.snapp.site
 apiserver228.myket.ir
 appcdn2.cafebazaar.ir
 arman-ati.com
