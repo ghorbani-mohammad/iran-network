@@ -286,6 +286,7 @@ sepehr.shaparak.ir
 sepehr.shaparak.ir:8080
 sg.api.io.mi.com
 sg.app.business.smartcaemra.api.io.mi.com
+sg.core.api.io.mi.com
 sg.home.mi.com
 shabestan.ir
 shahab.tbtb.ir
