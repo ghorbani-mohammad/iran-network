@@ -107,6 +107,7 @@ farasahm.ir
 farhad-exchange.com
 farsnews.ir
 fastdic.com
+fe.setadiran.ir
 file-dl.splus.ir
 files.divarcdn.com
 filimo.com
@@ -125,6 +126,7 @@ git.ir
 goftino.com
 gov.ir
 hafezinsurance.ir
+hammihanonline.ir
 hamshahrionline.ir
 hawzahnews.com
 hibank24.com
@@ -286,6 +288,7 @@ sep.ir
 sep.shaparak.ir
 sepehr.shaparak.ir
 sepehr.shaparak.ir:8080
+setadiran.ir
 sg.api.io.mi.com
 sg.app.business.smartcaemra.api.io.mi.com
 sg.core.api.io.mi.com
