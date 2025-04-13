@@ -312,6 +312,7 @@ soroushplus.com
 sotoon.ir
 splus.ir
 static.cdn.asset.filimo.com
+stream17.asset.filimo.com
 stream25.asset.filimo.com
 sukuk.ir
 tabdeal.org
