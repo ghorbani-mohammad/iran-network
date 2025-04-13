@@ -215,6 +215,7 @@ napi.jibit.ir
 neshanmap.ir
 new-sentry.digikala.com
 newspaper.fdn.ir
+nic.ir
 niniban.com
 ninisite.com
 nobitex.ir
