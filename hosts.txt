@@ -291,7 +291,6 @@ sentry.sabaidea.cloud
 sep.ir
 sep.shaparak.ir
 sepehr.shaparak.ir
-sepehr.shaparak.ir:8080
 setadiran.ir
 sg.api.io.mi.com
 sg.app.business.smartcaemra.api.io.mi.com
