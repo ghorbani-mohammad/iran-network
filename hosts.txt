@@ -21,6 +21,7 @@ api.divar.ir
 api.filimo.com
 api.intrack.ir
 api.snapp.site
+apigateway.okala.com
 apiserver228.myket.ir
 appcdn2.cafebazaar.ir
 arman-ati.com
@@ -359,6 +360,7 @@ tv7.ir
 tvscenter.com
 uplod.ir
 uplooder.net
+urm.okala.com
 uupload.ir
 vakacoffee.com
 vbank.rqb.ir
