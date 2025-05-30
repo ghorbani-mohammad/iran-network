@@ -222,6 +222,7 @@ namava.ir
 napi.jibit.ir
 neshanmap.ir
 new-sentry.digikala.com
+newapi.zoodfood.com
 newspaper.fdn.ir
 nic.ir
 niniban.com
