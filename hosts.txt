@@ -127,7 +127,9 @@ g.whatsapp.net
 gap.im
 ghbi.ir
 gis.cra.ir
+gis2.cra.ir
 gisapi.cra.ir
+giscov.cra.ir
 git.ir
 goftino.com
 gov.ir
