@@ -12,6 +12,7 @@ alborzinsurance.ir
 alef.ir
 aloomelk.ir
 amir3.space
+androidapp.okala.com
 aparat.com
 api-mts.orbis.easytrader.ir
 api.bitpin.org
@@ -20,6 +21,7 @@ api.divar.ir
 api.filimo.com
 api.intrack.ir
 api.snapp.site
+apigateway.okala.com
 apiserver228.myket.ir
 appcdn2.cafebazaar.ir
 arman-ati.com
@@ -90,6 +92,7 @@ drsaina.com
 ebtekarnews.com
 ecobourse.ir
 edbi.ir
+edge-direct39.filmnet.ir
 eghtesadnews.com
 eitaa.com
 eitaa.ir
@@ -103,6 +106,7 @@ eservices.tamin.ir
 ettelaat.com
 evaluation.danamelk.ir
 exir.io
+express.snapp.market
 faradars.org
 fararu.com
 farasahm.ir
@@ -118,12 +122,15 @@ filmnet.ir
 filmnet.ir
 finance.snapppay.ir
 financialtribune.com
+fttxapi.cra.ir
 fundbase.ir
 g.whatsapp.net
 gap.im
 ghbi.ir
 gis.cra.ir
+gis2.cra.ir
 gisapi.cra.ir
+giscov.cra.ir
 git.ir
 goftino.com
 gov.ir
@@ -147,6 +154,8 @@ ipg.snapppay.ir
 ipna.ir
 ipnumberia.com
 iqna.ir
+ir-apia.coolkit.cc
+ir-long1.coolkit.cc
 iran-newspaper.com
 iran-tejarat.com
 irancell.ir
@@ -186,6 +195,7 @@ kyroom.online
 l.splus.ir
 learnby.ir
 license-market.ir
+llm-agents.ir
 login.emofid.com
 ls-marketsheet.easytrader.ir
 ls.easytrader.ir
@@ -203,6 +213,7 @@ mihandownload.com
 mihanwebhost.com
 mihanwebhost.com
 milli.gold
+mir-data-8.myket.ir
 mitechshop.ir
 mizito.ir
 mobinnet.ir
@@ -217,6 +228,7 @@ namava.ir
 napi.jibit.ir
 neshanmap.ir
 new-sentry.digikala.com
+newapi.zoodfood.com
 newspaper.fdn.ir
 nic.ir
 niniban.com
@@ -226,6 +238,7 @@ novininsurance.com
 nx1.shop
 oauth.faraboom.co
 ok-ex.io
+okala.com
 omid-insurance.ir
 ompfinex.com
 p30download.com
@@ -263,6 +276,7 @@ radiovarzesh.ir
 rahavard365.com
 rahnemacollege.com
 ramzinex.com
+raster.snappmaps.ir
 razi-insurance.ir
 rb24.ir
 refah-bank.ir
@@ -355,6 +369,7 @@ tv7.ir
 tvscenter.com
 uplod.ir
 uplooder.net
+urm.okala.com
 uupload.ir
 vakacoffee.com
 vbank.rqb.ir
@@ -368,6 +383,7 @@ weswap.digital
 www.filimo.com
 xiaomi360.ir
 xiaomiiran.ir
+yasdl.com
 yasertebat.com
 yjc.ir
 zanbil.ir
